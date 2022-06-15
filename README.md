@@ -23,5 +23,12 @@ Linfo ~ Linux Info
 
 ---
 
+### Cheat Sheets
 - [All In One Linux Commands](https://reconshell.com/all-in-one-linux-commands/)
 - [Linux cheat sheet](https://reconshell.com/linux-cheat-sheet/)
+
+---
+
+### Privilege Escalation 
+- [Linux-PrivEsc](https://github.com/Anlominus/Linux-PrivEsc)
+
