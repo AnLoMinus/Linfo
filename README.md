@@ -24,6 +24,10 @@
 # Linfo
 Linfo ~ Linux Info
 
+```shell
+wget https://raw.githubusercontent.com/Anlominus/Linfo/main/Linfo;
+```
+
 ---
 
 ### Cheat Sheets
