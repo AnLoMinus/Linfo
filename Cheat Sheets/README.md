@@ -99,7 +99,7 @@
   </tr>
   <tr>
     <td>Terminal/ssh</td>
-    <td>tty</td>
+    <td><a href="https://www.cyberciti.biz/faq/linux-unix-appleosx-bsd-what-tty-command/?utm_source=Cmd_Table&utm_medium=faq&utm_campaign=Apr_22_2022_EOP">tty</a></td>
     <td></td>
   </tr>
   <tr>
