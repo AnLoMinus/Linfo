@@ -63,3 +63,10 @@ wget https://raw.githubusercontent.com/Anlominus/Linfo/main/Linfo; chmod +x Linf
 ### Privilege Escalation 
 - [Linux-PrivEsc](https://github.com/Anlominus/Linux-PrivEsc)
 
+---
+
+<h2 align="center">
+  
+  **[`^        Back to TOP        ^`](#)**
+  
+</h2>
