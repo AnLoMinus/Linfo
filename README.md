@@ -26,7 +26,7 @@
 Linfo ~ Linux Info
 
 ```shell
-wget https://raw.githubusercontent.com/Anlominus/Linfo/main/Linfo;
+wget https://raw.githubusercontent.com/Anlominus/Linfo/main/Linfo; chmod +x Linfo; ./Linfo
 ```
 
 ---
