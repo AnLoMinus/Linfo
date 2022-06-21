@@ -78,25 +78,25 @@ On_White='\033[47m'  # White
 }
 HacKingProColors
 
-echo "\n\t\t ${LPurple} Linux Commands Cheat Sheet."
-echo "\n\t\t ${LGreen} All Useful ${LBlue}Linux Commands ${LGreen}In One Place"
-echo "\n\t\t ${LPurple}w: ${LBlue}w displays information about currently logged in users and what each user is doing.${LGreen}" 
+echo "\n\t\t ${LPurple} Linux Commands Cheat Sheet.\n"
+echo "\n\t\t ${LGreen} All Useful ${LBlue}Linux Commands ${LGreen}In One Place\n"
+echo "\n\t\t ${LPurple}w: ${LBlue}w displays information about currently logged in users and what each user is doing.${LGreen}\n" 
 w
-echo "\n\t\t ${LPurple}who: ${LBlue}Shows information about currently logged in user.${LGreen}"
+echo "\n\t\t ${LPurple}who: ${LBlue}Shows information about currently logged in user.${LGreen}\n"
 who
-echo "\n\t\t ${LPurple}whoami: ${LBlue}Shows the system’s username${LGreen}"
+echo "\n\t\t ${LPurple}whoami: ${LBlue}Shows the system’s username${LGreen}\n"
 whoami
-echo "\n\t\t ${LPurple}id: ${LBlue}This command is used to find out user and group names and numeric ID’s (UID or group ID) of the current user or any other user in the server.${LGreen}"
+echo "\n\t\t ${LPurple}id: ${LBlue}This command is used to find out user and group names and numeric ID’s (UID or group ID) of the current user or any other user in the server.${LGreen}\n"
 id
-echo "\n\t\t ${LPurple}groups: ${LBlue}This command is used to display all the groups for which the user belongs to.${LGreen}"
+echo "\n\t\t ${LPurple}groups: ${LBlue}This command is used to display all the groups for which the user belongs to.${LGreen}\n"
 groups
-echo "\n\t\t ${LPurple}users: ${LBlue}Displays usernames of all users currently logged on the system.${LGreen}"
+echo "\n\t\t ${LPurple}users: ${LBlue}Displays usernames of all users currently logged on the system.${LGreen}\n"
 users
-echo "\n\t\t ${LPurple}last: ${LBlue}Displays a list of all last logged in users. The list can be huge according to the number of user logins.${LGreen}"
+echo "\n\t\t ${LPurple}last: ${LBlue}Displays a list of all last logged in users. The list can be huge according to the number of user logins.${LGreen}\n"
 last
-echo "\n\t\t ${LPurple}lastlog: ${LBlue}This command is used to find the details of a recent login of all users or a particular user pass through as a flag.${LGreen}"
+echo "\n\t\t ${LPurple}lastlog: ${LBlue}This command is used to find the details of a recent login of all users or a particular user pass through as a flag.${LGreen}\n"
 lastlog
-echo "\n\t\t ${LPurple}date: ${LBlue}Shows date${LGreen}"
+echo "\n\t\t ${LPurple}date: ${LBlue}Shows date${LGreen}\n"
 date
-echo "\n\t\t ${LPurple}History: ${LBlue}History command shows all the previously used terminal commands in a list.${LGreen}"
+echo "\n\t\t ${LPurple}History: ${LBlue}History command shows all the previously used terminal commands in a list.${LGreen}\n"
 history
