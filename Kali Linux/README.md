@@ -1,4 +1,4 @@
-https://kali.download/virtual-images/kali-2022.2/kali-linux-2022.2-vmware-amd64.7z# [Kali Linux](https://www.kali.org/)
+# [Kali Linux](https://www.kali.org/)
 
 ![image](https://user-images.githubusercontent.com/51442719/177438703-17068952-d001-4c91-b0db-97fba177dd37.png)
 
