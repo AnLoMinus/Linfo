@@ -65,6 +65,12 @@ wget https://raw.githubusercontent.com/Anlominus/Linfo/main/Linfo; chmod +x Linf
 
 ---
 
+
+- [Manu Distro](http://distro.ibiblio.org/)
+
+----
+
+
 <h2 align="center">
   
   **[`^        Back to TOP        ^`](#)**
